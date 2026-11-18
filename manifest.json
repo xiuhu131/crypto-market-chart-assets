@@ -2,71 +2,72 @@
   "schema_version": 1,
   "generated_at_utc": "2026-11-18T01:42:59Z",
   "assets_only": true,
+  "chart_count": 6,
   "charts": [
     {
       "id": "btc_price_sma",
       "title": "BTC价格与SMA50/SMA200",
       "file": "charts/btc_price_sma.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
       "points": 721,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-17",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png"
+      "end_date_utc": "2026-11-17"
     },
     {
       "id": "eth_price_sma",
       "title": "ETH价格与SMA50/SMA200",
       "file": "charts/eth_price_sma.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
       "points": 721,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-17",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png"
+      "end_date_utc": "2026-11-17"
     },
     {
       "id": "defi_global_tvl",
       "title": "DeFiLlama global TVL",
       "file": "charts/defi_global_tvl.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png",
       "provider": "DeFiLlama Free API",
       "points": 3340,
       "start_date_utc": "2017-09-27",
-      "end_date_utc": "2026-11-18",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png"
+      "end_date_utc": "2026-11-18"
     },
     {
       "id": "stablecoin_supply",
       "title": "Stablecoin circulating supply",
       "file": "charts/stablecoin_supply.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png",
       "provider": "DeFiLlama Free API",
       "points": 3277,
       "start_date_utc": "2017-11-29",
-      "end_date_utc": "2026-11-18",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png"
+      "end_date_utc": "2026-11-18"
     },
     {
       "id": "fear_greed",
       "title": "Alternative.me Crypto Fear & Greed Index",
       "file": "charts/fear_greed.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png",
       "provider": "Alternative.me",
       "points": 41,
       "start_date_utc": "2026-10-09",
-      "end_date_utc": "2026-11-18",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png"
+      "end_date_utc": "2026-11-18"
     },
     {
       "id": "btc_nupl",
       "title": "Bitcoin NUPL (Kote Charts)",
       "file": "charts/btc_nupl.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png",
       "provider": "Kote Charts",
       "points": 60,
       "start_date_utc": "2026-09-18",
-      "end_date_utc": "2026-11-16",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png"
+      "end_date_utc": "2026-11-16"
     }
   ],
   "notes": [
-    "Charts are generated from persisted, dated source observations.",
-    "No values are interpolated or filled with prior observations.",
+    "Only rendered PNG assets and this minimal manifest are published.",
+    "Raw source data, daily reports, research notes and pipeline configuration remain private.",
     "Address counts refer to blockchain addresses, not beneficial owners or people."
   ]
 }
