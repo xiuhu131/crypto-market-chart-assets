@@ -10,7 +10,8 @@
       "provider": "Kraken Spot REST OHLC",
       "points": 721,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-17"
+      "end_date_utc": "2026-11-17",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png"
     },
     {
       "id": "eth_price_sma",
@@ -19,7 +20,8 @@
       "provider": "Kraken Spot REST OHLC",
       "points": 721,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-17"
+      "end_date_utc": "2026-11-17",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png"
     },
     {
       "id": "defi_global_tvl",
@@ -28,7 +30,8 @@
       "provider": "DeFiLlama Free API",
       "points": 3340,
       "start_date_utc": "2017-09-27",
-      "end_date_utc": "2026-11-18"
+      "end_date_utc": "2026-11-18",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png"
     },
     {
       "id": "stablecoin_supply",
@@ -37,7 +40,8 @@
       "provider": "DeFiLlama Free API",
       "points": 3277,
       "start_date_utc": "2017-11-29",
-      "end_date_utc": "2026-11-18"
+      "end_date_utc": "2026-11-18",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png"
     },
     {
       "id": "fear_greed",
@@ -46,7 +50,8 @@
       "provider": "Alternative.me",
       "points": 41,
       "start_date_utc": "2026-10-09",
-      "end_date_utc": "2026-11-18"
+      "end_date_utc": "2026-11-18",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png"
     },
     {
       "id": "btc_nupl",
@@ -55,7 +60,8 @@
       "provider": "Kote Charts",
       "points": 60,
       "start_date_utc": "2026-09-18",
-      "end_date_utc": "2026-11-16"
+      "end_date_utc": "2026-11-16",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png"
     }
   ],
   "notes": [
