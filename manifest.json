@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-22T02:13:54Z",
+  "generated_at_utc": "2026-11-23T01:41:08Z",
   "assets_only": true,
   "chart_count": 6,
   "charts": [
@@ -10,9 +10,9 @@
       "file": "charts/btc_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 725,
+      "points": 726,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-21"
+      "end_date_utc": "2026-11-22"
     },
     {
       "id": "eth_price_sma",
@@ -20,9 +20,9 @@
       "file": "charts/eth_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 725,
+      "points": 726,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-21"
+      "end_date_utc": "2026-11-22"
     },
     {
       "id": "defi_global_tvl",
@@ -30,9 +30,9 @@
       "file": "charts/defi_global_tvl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png",
       "provider": "DeFiLlama Free API",
-      "points": 3344,
+      "points": 3345,
       "start_date_utc": "2017-09-27",
-      "end_date_utc": "2026-11-22"
+      "end_date_utc": "2026-11-23"
     },
     {
       "id": "stablecoin_supply",
@@ -40,9 +40,9 @@
       "file": "charts/stablecoin_supply.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png",
       "provider": "DeFiLlama Free API",
-      "points": 3281,
+      "points": 3282,
       "start_date_utc": "2017-11-29",
-      "end_date_utc": "2026-11-22"
+      "end_date_utc": "2026-11-23"
     },
     {
       "id": "fear_greed",
@@ -50,9 +50,9 @@
       "file": "charts/fear_greed.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png",
       "provider": "Alternative.me",
-      "points": 45,
+      "points": 46,
       "start_date_utc": "2026-10-09",
-      "end_date_utc": "2026-11-22"
+      "end_date_utc": "2026-11-23"
     },
     {
       "id": "btc_nupl",
