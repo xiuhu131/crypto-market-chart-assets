@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-23T01:41:08Z",
+  "generated_at_utc": "2026-11-23T02:28:54Z",
   "assets_only": true,
   "chart_count": 6,
   "charts": [
@@ -60,9 +60,9 @@
       "file": "charts/btc_nupl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png",
       "provider": "Kote Charts",
-      "points": 65,
+      "points": 66,
       "start_date_utc": "2026-09-18",
-      "end_date_utc": "2026-11-21"
+      "end_date_utc": "2026-11-22"
     }
   ],
   "notes": [
