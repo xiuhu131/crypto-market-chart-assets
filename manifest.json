@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-24T04:00:54Z",
+  "generated_at_utc": "2026-11-24T23:54:46Z",
   "assets_only": true,
   "chart_count": 6,
   "charts": [
@@ -30,9 +30,9 @@
       "file": "charts/defi_global_tvl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png",
       "provider": "DeFiLlama Free API",
-      "points": 3346,
+      "points": 3347,
       "start_date_utc": "2017-09-27",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "stablecoin_supply",
