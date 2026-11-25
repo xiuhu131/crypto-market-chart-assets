@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-25T04:02:20Z",
+  "generated_at_utc": "2026-11-25T04:14:32Z",
   "assets_only": true,
-  "chart_count": 7,
+  "chart_count": 8,
   "charts": [
     {
       "id": "btc_price_sma",
@@ -69,6 +69,16 @@
       "title": "BTC现货ETF周度净流入与BTC价格",
       "file": "charts/btc_spot_etf_weekly_flows_price.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_spot_etf_weekly_flows_price.png",
+      "provider": "Farside Investors; Kraken Spot REST OHLC",
+      "points": 105,
+      "start_date_utc": "2024-11-29",
+      "end_date_utc": "2026-11-24"
+    },
+    {
+      "id": "eth_spot_etf_weekly_flows_price",
+      "title": "ETH现货ETF周度净流入与ETH价格",
+      "file": "charts/eth_spot_etf_weekly_flows_price.png",
+      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_spot_etf_weekly_flows_price.png",
       "provider": "Farside Investors; Kraken Spot REST OHLC",
       "points": 105,
       "start_date_utc": "2024-11-29",
