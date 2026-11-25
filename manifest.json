@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-25T04:14:32Z",
+  "generated_at_utc": "2026-11-25T23:46:47Z",
   "assets_only": true,
   "chart_count": 8,
   "charts": [
@@ -72,7 +72,7 @@
       "provider": "Farside Investors; Kraken Spot REST OHLC",
       "points": 105,
       "start_date_utc": "2024-11-29",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "eth_spot_etf_weekly_flows_price",
@@ -82,7 +82,7 @@
       "provider": "Farside Investors; Kraken Spot REST OHLC",
       "points": 105,
       "start_date_utc": "2024-11-29",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     }
   ],
   "notes": [
