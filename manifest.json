@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-24T23:54:46Z",
+  "generated_at_utc": "2026-11-25T02:37:12Z",
   "assets_only": true,
   "chart_count": 6,
   "charts": [
@@ -10,9 +10,9 @@
       "file": "charts/btc_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 727,
+      "points": 728,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-23"
+      "end_date_utc": "2026-11-24"
     },
     {
       "id": "eth_price_sma",
@@ -20,9 +20,9 @@
       "file": "charts/eth_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 727,
+      "points": 728,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-23"
+      "end_date_utc": "2026-11-24"
     },
     {
       "id": "defi_global_tvl",
@@ -40,9 +40,9 @@
       "file": "charts/stablecoin_supply.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png",
       "provider": "DeFiLlama Free API",
-      "points": 3283,
+      "points": 3284,
       "start_date_utc": "2017-11-29",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "fear_greed",
@@ -50,9 +50,9 @@
       "file": "charts/fear_greed.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png",
       "provider": "Alternative.me",
-      "points": 47,
+      "points": 48,
       "start_date_utc": "2026-10-09",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "btc_nupl",
@@ -60,9 +60,9 @@
       "file": "charts/btc_nupl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png",
       "provider": "Kote Charts",
-      "points": 67,
+      "points": 68,
       "start_date_utc": "2026-09-18",
-      "end_date_utc": "2026-11-23"
+      "end_date_utc": "2026-11-24"
     }
   ],
   "notes": [
