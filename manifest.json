@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-25T23:46:47Z",
+  "generated_at_utc": "2026-11-26T03:04:46Z",
   "assets_only": true,
-  "chart_count": 8,
+  "chart_count": 6,
   "charts": [
     {
       "id": "btc_price_sma",
@@ -10,9 +10,9 @@
       "file": "charts/btc_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 728,
+      "points": 729,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "eth_price_sma",
@@ -20,9 +20,9 @@
       "file": "charts/eth_price_sma.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_price_sma.png",
       "provider": "Kraken Spot REST OHLC",
-      "points": 728,
+      "points": 729,
       "start_date_utc": "2024-11-27",
-      "end_date_utc": "2026-11-24"
+      "end_date_utc": "2026-11-25"
     },
     {
       "id": "defi_global_tvl",
@@ -30,9 +30,9 @@
       "file": "charts/defi_global_tvl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/defi_global_tvl.png",
       "provider": "DeFiLlama Free API",
-      "points": 3347,
+      "points": 3348,
       "start_date_utc": "2017-09-27",
-      "end_date_utc": "2026-11-25"
+      "end_date_utc": "2026-11-26"
     },
     {
       "id": "stablecoin_supply",
@@ -40,9 +40,9 @@
       "file": "charts/stablecoin_supply.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/stablecoin_supply.png",
       "provider": "DeFiLlama Free API",
-      "points": 3284,
+      "points": 3285,
       "start_date_utc": "2017-11-29",
-      "end_date_utc": "2026-11-25"
+      "end_date_utc": "2026-11-26"
     },
     {
       "id": "fear_greed",
@@ -50,9 +50,9 @@
       "file": "charts/fear_greed.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/fear_greed.png",
       "provider": "Alternative.me",
-      "points": 48,
+      "points": 49,
       "start_date_utc": "2026-10-09",
-      "end_date_utc": "2026-11-25"
+      "end_date_utc": "2026-11-26"
     },
     {
       "id": "btc_nupl",
@@ -60,28 +60,8 @@
       "file": "charts/btc_nupl.png",
       "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_nupl.png",
       "provider": "Kote Charts",
-      "points": 68,
+      "points": 69,
       "start_date_utc": "2026-09-18",
-      "end_date_utc": "2026-11-24"
-    },
-    {
-      "id": "btc_spot_etf_weekly_flows_price",
-      "title": "BTC现货ETF周度净流入与BTC价格",
-      "file": "charts/btc_spot_etf_weekly_flows_price.png",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/btc_spot_etf_weekly_flows_price.png",
-      "provider": "Farside Investors; Kraken Spot REST OHLC",
-      "points": 105,
-      "start_date_utc": "2024-11-29",
-      "end_date_utc": "2026-11-25"
-    },
-    {
-      "id": "eth_spot_etf_weekly_flows_price",
-      "title": "ETH现货ETF周度净流入与ETH价格",
-      "file": "charts/eth_spot_etf_weekly_flows_price.png",
-      "url": "https://raw.githubusercontent.com/xiuhu131/crypto-market-chart-assets/main/charts/eth_spot_etf_weekly_flows_price.png",
-      "provider": "Farside Investors; Kraken Spot REST OHLC",
-      "points": 105,
-      "start_date_utc": "2024-11-29",
       "end_date_utc": "2026-11-25"
     }
   ],
